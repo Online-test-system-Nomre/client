@@ -3,5 +3,6 @@ updates:
 - package-ecosystem: npm
   directory: "/ionic"
   schedule:
-    interval: live
+    interval: "live"
+
   open-pull-requests-limit: 10
